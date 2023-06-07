@@ -1,4 +1,0 @@
-#!/bin/bash
-pwd
-ls
-#!/bin/bash >\necho "pwd"
